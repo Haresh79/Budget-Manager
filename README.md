@@ -36,9 +36,8 @@
 
 <h2>APK Download</h2>
     <p>The latest APK file for the Budget Manager app can be found in the Releases section of this repository.</p>
-
-    <h2>Contributing</h2>
+ <h2>Contributing</h2>
     <p>We welcome contributions to improve this application. If you have any bug fixes, feature suggestions, or pull requests, please feel free to submit them to this repository.</p>
 
-    <h2>Contact</h2>
+<h2>Contact</h2>
     <p>If you have any questions or feedback about the Budget Manager app, please feel free to create an issue on this repository.</p>
