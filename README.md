@@ -4,11 +4,11 @@ This Android application is a simple tool to help you manage your personal finan
 
 Features:
 
-o Add income and expenses for each month
-o Calculate your total savings for the month
-o Delete individual entries for income or expenses (in case of mistakes)
-o Clear all data at the end of the month (for a fresh start)
-o View a transaction list for all your income and expenses
+o Add income and expenses for each month<br>
+o Calculate your total savings for the month<br>
+o Delete individual entries for income or expenses (in case of mistakes)<br>
+o Clear all data at the end of the month (for a fresh start)<br>
+o View a transaction list for all your income and expenses<br>
 Getting Started
 
 1. Prerequisites:
