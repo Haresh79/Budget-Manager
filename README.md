@@ -1,7 +1,7 @@
 <h1>Budget Manager</h1>
     <p>This Android application is a simple tool to help you manage your personal finances. It allows you to track your monthly income, expenses, and savings.</p>
 
-    <h2>Features:</h2>
+<h2>Features:</h2>
     <ul>
         <li>Add income and expenses for each month</li>
         <li>Calculate your total savings for the month</li>
@@ -10,12 +10,12 @@
         <li>View a transaction list for all your income and expenses</li>
     </ul>
 
-    <h2>Getting Started</h2>
+<h2>Getting Started</h2>
 
-    <h3>Prerequisites:</h3>
+<h3>Prerequisites:</h3>
     <p>An Android device with Android version Oreo or later.</p>
 
-    <h3>Installation:</h3>
+<h3>Installation:</h3>
     <ol>
         <li>Download the latest APK file from the Releases section of this repository.</li>
         <li>Transfer the downloaded APK file to your Android device.</li>
@@ -23,7 +23,7 @@
         <li>Grant any necessary permissions requested by the application.</li>
     </ol>
 
-    <h2>Usage:</h2>
+<h2>Usage:</h2>
     <ol>
         <li>Open the Budget Manager app.</li>
         <li>To add income, tap the "+" button and select "Income". Enter the amount and a description (optional).</li>
@@ -34,7 +34,7 @@
         <li>To clear all data at the end of the month, tap the menu button (three dots) and select "Clear Data". (Warning: This will permanently delete all your income, expense, and transaction data.)</li>
     </ol>
 
-    <h2>APK Download</h2>
+<h2>APK Download</h2>
     <p>The latest APK file for the Budget Manager app can be found in the Releases section of this repository.</p>
 
     <h2>Contributing</h2>
