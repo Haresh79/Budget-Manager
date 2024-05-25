@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    android:background="@color/white"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"
+        android:layout_weight="1"
+        android:text="Expenses" />
+
+    <EditText
+        android:id="@+id/ExpTitle"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:textColor="@color/black"
+        android:layout_weight="1"
+        android:hint="Enter Your Expenses Title"
+        android:textColorHint="@color/gray"
+        android:padding="10dp"
+        android:ems="10"
+        android:layout_margin="10dp"
+        android:background="@drawable/edit_text_bg"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/ExpAmount"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:textColor="@color/black"
+        android:hint="Enter Your Expenses Amount"
+        android:textColorHint="@color/gray"
+        android:padding="10dp"
+        android:ems="10"
+        android:layout_margin="10dp"
+        android:background="@drawable/edit_text_bg"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:id="@+id/addExpBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primaryColor"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:text="Add Expenses" />
+</LinearLayout>
